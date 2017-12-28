@@ -31,6 +31,7 @@ The card.io Cordova plugin provides different configurations that could be set a
 |  guideColor                      | String   | Changes the color of the guide overlay on the camera. The color is provided in hexadecimal format (e.g. "#FFFFFF") |
 |  suppressConfirmation            | Boolean  | The user will not be prompted to confirm their card number after processing. |
 |  hideCardIOLogo                  | Boolean  | The card.io logo will not be shown overlaid on the camera. |
+|  showActionBarIcon               | Boolean  | The card.io actionBar icon will be shown at the header. |
 |  useCardIOLogo                   | Boolean  | The card.io logo will be shown instead of the PayPal logo. |
 |  suppressScan                    | Boolean  | Once a card image has been captured but before it has been processed, this value will determine whether to continue processing as usual. |
 
