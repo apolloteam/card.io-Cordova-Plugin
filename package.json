@@ -1,6 +1,6 @@
 {
   "name": "card.io.cordova.mobilesdk",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "This plugin allows to add card.io scanning capabilities to your application using card.io SDK Native library",
   "cordova": {
     "id": "card.io.cordova.mobilesdk",
@@ -21,14 +21,11 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
+  "engines": {
+    "cordova": ">=3.0.0"
+  },
   "author": "card.io",
-  "license": "MIT License, see LICENSE for details",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/card-io/card.io-Cordova-Plugin/issues"
   },
